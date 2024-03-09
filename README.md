@@ -9,10 +9,10 @@ asadsafdd fasdfdsa f KS:LKJ SDSKLD:LSKD:LK:LK
 * 🌍  I'm based in Tehran
 * 🖥️  See my portfolio at [My Portfolio](http://itsAmir.com)
 * ✉️  You can contact me at [hello@itsAmir.com](mailto:hello@itsAmir.com)
-* 🚀  I'm currently working on [asdasd](http://Swqdsfqwef ecs)
+* 🚀  I'm currently working on [this project](http://arasbooks.com)
 * 🧠  I'm learning ML
-* 🤝  I'm open to collaborating on dsafweqfqef
-* ⚡  werqwefdvsd sd vasd
+* 🤝  I'm open to collaborating on mathematics projects
+* ⚡  YUP :)
 
 <a href="https://www.github.com//its-devamir" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers//its-devamir?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
